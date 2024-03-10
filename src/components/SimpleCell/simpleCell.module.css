@@ -1,0 +1,7 @@
+.wrap {
+  width: 1000px;
+  text-align: left;
+}
+.flex {
+  display: flex;
+}
